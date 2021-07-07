@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-react-Card-Filter/static/css/main.af7d6cb1.chunk.css",
+    "main.js": "/Simple-react-Card-Filter/static/js/main.d9ae3fb9.chunk.js",
+    "main.js.map": "/Simple-react-Card-Filter/static/js/main.d9ae3fb9.chunk.js.map",
+    "runtime-main.js": "/Simple-react-Card-Filter/static/js/runtime-main.fa133a01.js",
+    "runtime-main.js.map": "/Simple-react-Card-Filter/static/js/runtime-main.fa133a01.js.map",
+    "static/js/2.a8fb9463.chunk.js": "/Simple-react-Card-Filter/static/js/2.a8fb9463.chunk.js",
+    "static/js/2.a8fb9463.chunk.js.map": "/Simple-react-Card-Filter/static/js/2.a8fb9463.chunk.js.map",
+    "static/js/3.1b17e37d.chunk.js": "/Simple-react-Card-Filter/static/js/3.1b17e37d.chunk.js",
+    "static/js/3.1b17e37d.chunk.js.map": "/Simple-react-Card-Filter/static/js/3.1b17e37d.chunk.js.map",
+    "index.html": "/Simple-react-Card-Filter/index.html",
+    "static/css/main.af7d6cb1.chunk.css.map": "/Simple-react-Card-Filter/static/css/main.af7d6cb1.chunk.css.map",
+    "static/js/2.a8fb9463.chunk.js.LICENSE.txt": "/Simple-react-Card-Filter/static/js/2.a8fb9463.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa133a01.js",
+    "static/js/2.a8fb9463.chunk.js",
+    "static/css/main.af7d6cb1.chunk.css",
+    "static/js/main.d9ae3fb9.chunk.js"
+  ]
+}
